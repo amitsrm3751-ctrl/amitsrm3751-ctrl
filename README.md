@@ -44,8 +44,14 @@ I combine deep banking domain knowledge with analytics and technology skills in 
 - Collateral & Security Valuation  
 
 **Technology**  
-- UAT Testing (Finacle, Loan Portals, e-Kuber)  
+- Core Banking Platforms – Finacle 10.0  
+- Loan Processing Systems (LPS)  
+- Alerts & Early Warning Signals Systems
+- Offsite Monitoring System  
+- UAT Testing – Finacle, Loan Portals, RBI e-Kuber  
 - RFP Preparation & Vendor Onboarding  
+- Process Improvement & Workflow Automation  
+ 
 
 ---
 
